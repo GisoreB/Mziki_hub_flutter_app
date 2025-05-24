@@ -1,4 +1,4 @@
-# player
+# Mziki Hub Flutter App
 A music streaming flutter app with laravel as the backend framework.
 
 # screenshoots
