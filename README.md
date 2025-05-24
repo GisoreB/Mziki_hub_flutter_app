@@ -1,28 +1,20 @@
-# Koel Player [![Unit Tests](https://github.com/koel/player/actions/workflows/unit.yml/badge.svg)](https://github.com/koel/player/actions/workflows/unit.yml)
+# player
+A music streaming flutter app with laravel as the backend framework.
 
-![Project banner with app screenshots](https://user-images.githubusercontent.com/8056274/126907246-9fa5c3c7-6bf1-4733-b36b-7b35d2db0bf6.jpg)
+# screenshoots
 
-The mobile app for Koel, which provides a complete mobile app experience and doesn't have the 
-[limitations](https://docs.koel.dev/#mobile-support-and-limitation) of the mobile web version. 
-Supports both iOS and Android.
-
-## Download
-
-[<img src="https://user-images.githubusercontent.com/8056274/126906876-acd3784c-c984-40e0-a7f5-6d2a8194d294.png" height=64>](https://apps.apple.com/de/app/koel-player/id1576886982?l=en)
-[<img src="https://user-images.githubusercontent.com/8056274/128632258-2077abef-7d99-4299-a286-ae13a3df6dca.png" height=64>](https://play.google.com/store/apps/details?id=phanan.koel.app)
-
-You can, of course, build the project and install the app on your own.
-
-## Contribution
-
-Koel Player is built on Flutter and Dart. If you're new to Flutter, here are a few resources to get you started:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For more help, visit the [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## License
-
-MIT.
+![Screenshot 2025-05-23 113917](https://github.com/user-attachments/assets/8e49080f-4734-42d3-a575-652aa92629e3)
+![Screenshot 2025-05-23 113837](https://github.com/user-attachments/assets/1ee8d631-8c5e-4f9e-a432-664851762682)
+![Screenshot 2025-05-22 150141](https://github.com/user-attachments/assets/bcce0852-2f6c-4220-8f54-592bd5c6240a)
+![Screenshot 2025-05-22 150105](https://github.com/user-attachments/assets/fed60b2a-63ba-45b3-b9b6-9039abe346fc)
+![Screenshot 2025-05-22 145638](https://github.com/user-attachments/assets/f01816bc-629f-4771-8b7e-3153361c491b)
+![Screenshot 2025-05-24 100321](https://github.com/user-attachments/assets/bc6e9e1b-4287-469e-a9bd-60fd3aeb4321)
+![Screenshot 2025-05-24 100251](https://github.com/user-attachments/assets/11d796a1-7617-439b-8e98-8d8fae3a7d6a)
+![Screenshot 2025-05-24 100226](https://github.com/user-attachments/assets/78f590c0-6a89-4f08-afc4-cfd048b00d93)
+![Screenshot 2025-05-24 100122](https://github.com/user-attachments/assets/d7927897-00e8-4106-b226-886348a80a54)
+![Screenshot 2025-05-23 114242](https://github.com/user-attachments/assets/aadf9310-5c4b-4bc2-b440-d2fd31a1d31c)
+![Screenshot 2025-05-23 114204](https://github.com/user-attachments/assets/b60c8eda-f0bb-4bfc-9f39-71d480c4edf5)
+![Screenshot 2025-05-23 114128](https://github.com/user-attachments/assets/cef5ae11-e99f-4bfc-9378-0400e640ee21)
+![Screenshot 2025-05-23 114053](https://github.com/user-attachments/assets/645f62ed-8dc0-4dd0-908a-c41d7d77fda5)
+![Screenshot 2025-05-23 114032](https://github.com/user-attachments/assets/73d05f40-c4a2-4f3b-9bc7-511d051c27df)
+![Screenshot 2025-05-23 113955](https://github.com/user-attachments/assets/df2ca919-0fee-4bfb-840e-6c1429b67c05)
